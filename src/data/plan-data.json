@@ -1,0 +1,48 @@
+[
+  {
+    "id": 1,
+    "icon": "images/vacation.png",
+    "text": "Dhairyadev & Sayali’s Vacation Plan 1",
+    "progress": "₹ 11,24,00,000",
+    "amount": "₹ 15,00,00,000",
+    "date": "March 2035",
+    "health": "Excellent!"
+  },
+  {
+    "id": 2,
+    "icon": "images/vacation.png",
+    "text": "Dhairyadev & Sayali’s Vacation Plan 1",
+    "progress": "₹ 2,70,00,000",
+    "amount": "₹ 5,00,00,000",
+    "date": "Jan 2040",
+    "health": "Good"
+  },
+  {
+    "id": 3,
+    "icon": "images/vacation.png",
+    "text": "Dhairyadev & Sayali’s Vacation Plan 1",
+    "progress": "₹ 42,00,000",
+    "amount": "₹ 1,00,00,000",
+    "date": "Jan 2040",
+    "health": "Weak",
+    "boost": true
+  },
+  {
+    "id": 4,
+    "icon": "images/vacation.png",
+    "text": "Dhairyadev & Sayali’s Vacation Plan 1",
+    "progress": "₹ ₹ 11,24,00,000",
+    "amount": "₹ 15,00,00,000",
+    "date": "March 2035",
+    "health": "Poor"
+  },
+  {
+    "id": 5,
+    "icon": "images/vacation.png",
+    "text": "Dhairyadev & Sayali’s Vacation Plan 1",
+    "progress": "₹ 11,24,00,000",
+    "amount": "₹ 15,00,00,000",
+    "date": "March 2035",
+    "reached": "March 2035"
+  }
+]
